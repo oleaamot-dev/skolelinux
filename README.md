@@ -1,0 +1,2 @@
+# skolelinux
+Skolelinux
